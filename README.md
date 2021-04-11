@@ -8,7 +8,7 @@ Kyxo (Arch) - Supported
 
 EasyExploits - Supported
 
-Every other exploit is unknown, so try it out for yourself and tell me if its supported in the [discord](https://discord.gg/GsDkFR9bv9)
+Every other exploit is unknown, so try it out for yourself and tell me if its supported in the [discord.](https://discord.gg/GsDkFR9bv9)
 
 Code:
 
